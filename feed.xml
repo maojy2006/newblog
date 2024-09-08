@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Maudoo&#x27;s blog</title>
-    <link href="https://maojy2006.github.io/newblog/feed.xml" rel="self" />
-    <link href="https://maojy2006.github.io/newblog" />
+    <link href="https://maojy2006.cn/feed.xml" rel="self" />
+    <link href="https://maojy2006.cn" />
     <updated>2024-09-07T17:34:55+08:00</updated>
     <author>
         <name>maudoo</name>
     </author>
-    <id>https://maojy2006.github.io/newblog</id>
+    <id>https://maojy2006.cn</id>
 
     <entry>
         <title>About ME</title>
         <author>
             <name>maudoo</name>
         </author>
-        <link href="https://maojy2006.github.io/newblog/about-me.html"/>
-        <id>https://maojy2006.github.io/newblog/about-me.html</id>
+        <link href="https://maojy2006.cn/about-me.html"/>
+        <id>https://maojy2006.cn/about-me.html</id>
 
         <updated>2024-09-07T17:34:55+08:00</updated>
             <summary>
